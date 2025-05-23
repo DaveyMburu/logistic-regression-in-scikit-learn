@@ -10,6 +10,8 @@ In this lab you will:
 
 - Fit a logistic regression model using scikit-learn 
 
+# Check the index.ipynb file for my workings
+
 
 ## Let's get started!
 
